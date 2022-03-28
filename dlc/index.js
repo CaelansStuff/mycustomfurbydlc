@@ -22,6 +22,13 @@
         ]
     },
     {
+        "file": "tu003410.dlc", 
+        "title": "Nigga",
+        "buttons": [
+            { "title": "Audio test ", "action": [75,0,4,4] }
+        ]
+    },
+    {
         "file": "chilli.dlc", 
         "title": "Chilli",
         "buttons": [
